@@ -1,1 +1,3 @@
-# sonny1505-texture-pack-special-sonny-
+# Simple FPS Game
+
+Run main.py with Ursina installed.
